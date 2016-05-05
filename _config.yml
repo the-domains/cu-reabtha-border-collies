@@ -1,7 +1,7 @@
 name: Cu Reabtha Border Collies
 favicon: null
-layout_spectrum: 0.49998908466659486
-typography_spectrum: 0.7274873431306332
+layout_spectrum: 0.49284
+typography_spectrum: 0.24358
 title: AKC Breeder of Merit
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#fbfaf8'
+    - '#586631'
+    - '#c1bcb8'
+    - '#a09989'
   brandStrength: 0.5663826386444271
   lightness: 0.9546011816710234
   saturation: 0.4107021288946271
