@@ -1,0 +1,28 @@
+name: Cu Reabtha Border Collies
+favicon: null
+layout_spectrum: 0.49998908466659486
+typography_spectrum: 0.7274873431306332
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5663826386444271
+  lightness: 0.9546011816710234
+  saturation: 0.4107021288946271
+  rhythmicContrast: 0.008865580195561051
+purpose: []
